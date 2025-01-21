@@ -1,3 +1,3 @@
 # WinGet-Releases
 
-Repository for installers of my applications released on WinGet.
+Repository for application installers for WinGet.
