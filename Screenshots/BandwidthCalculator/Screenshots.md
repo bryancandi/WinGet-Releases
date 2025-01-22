@@ -8,9 +8,9 @@ A Windows application that can determine the time required to download a file at
 ### Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/Screenshots/Screenshot1.png" width="49%" />
-  <img src="/Screenshots/Screenshot2.png" width="49%" />
-  <img src="/Screenshots/Screenshot3.png" width="49%" />
-  <img src="/Screenshots/Screenshot4.png" width="49%" />
-  <img src="/Screenshots/Screenshot5.png" width="49%" />
+  <img src="/Screenshots/BandwidthCalculator/Screenshot1.png" width="49%" />
+  <img src="/Screenshots/BandwidthCalculator/Screenshot2.png" width="49%" />
+  <img src="/Screenshots/BandwidthCalculator/Screenshot3.png" width="49%" />
+  <img src="/Screenshots/BandwidthCalculator/Screenshot4.png" width="49%" />
+  <img src="/Screenshots/BandwidthCalculator/Screenshot5.png" width="49%" />
 </div>
