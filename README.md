@@ -10,4 +10,6 @@ Download latest release:\
 [Bandwidth Calculator Installer - v1.0.0](https://github.com/bryancandi/WinGet-Releases/releases/download/BandwidthCalculator/BandwidthCalculatorInstaller.msi)\
 [Bandwidth Calculator Portable - v1.0.0](https://github.com/bryancandi/WinGet-Releases/releases/download/BandwidthCalculator/BandwidthCalculator-v1.0.0-Portable.zip)
 
+### 📷 [Screenshots](https://github.com/bryancandi/WinGet-Releases/blob/main/Screenshots/BandwidthCalculator/Screenshots.md)
+
 ##
