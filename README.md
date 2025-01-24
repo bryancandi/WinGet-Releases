@@ -11,7 +11,13 @@ Download latest release:\
 [Bandwidth Calculator Portable - v1.0.0](https://github.com/bryancandi/WinGet-Releases/releases/download/BandwidthCalculator/BandwidthCalculator-v1.0.0-Portable.zip)
 
 ### 📷 [Screenshots](https://github.com/bryancandi/WinGet-Releases/blob/main/Screenshots/BandwidthCalculator/Screenshots.md)
+\
+![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/BandwidthCalculatorInstaller.msi?color=blue)
+
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/BandwidthCalculatorInstaller.msi?color=blue)
 
 ##
+\
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/total?color=orange)
 
-[![All Release Downloads](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total.svg)](https://github.com/bryancandi/WinGet-Releases/releases)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total?color=orange)
