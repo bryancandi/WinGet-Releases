@@ -7,9 +7,16 @@ A Windows GUI application that can determine the time required to download a fil
 `winget install BryanCandi.BandwidthCalculator`
 
 Download latest release:\
-[Bandwidth Calculator Installer - v1.0.0](https://github.com/bryancandi/WinGet-Releases/releases/download/BandwidthCalculator/BandwidthCalculatorInstaller.msi)\
-[Bandwidth Calculator Portable - v1.0.0](https://github.com/bryancandi/WinGet-Releases/releases/download/BandwidthCalculator/BandwidthCalculator-v1.0.0-Portable.zip)
+[Bandwidth Calculator](https://github.com/bryancandi/WinGet-Releases/releases)
 
 ### 📷 [Screenshots](https://github.com/bryancandi/WinGet-Releases/blob/main/Screenshots/BandwidthCalculator/Screenshots.md)
+\
+![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/BandwidthCalculatorInstaller.msi?color=blue)
+
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/BandwidthCalculatorInstaller.msi?color=blue)
 
 ##
+\
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/total?color=orange)
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total?color=orange)
