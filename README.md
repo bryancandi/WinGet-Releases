@@ -13,3 +13,5 @@ Download latest release:\
 ### 📷 [Screenshots](https://github.com/bryancandi/WinGet-Releases/blob/main/Screenshots/BandwidthCalculator/Screenshots.md)
 
 ##
+
+[![All Release Downloads](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total.svg)](https://github.com/bryancandi/WinGet-Releases/releases)
