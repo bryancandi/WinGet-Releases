@@ -11,12 +11,10 @@ Download latest release:\
 
 ### 📷 [Screenshots](https://github.com/bryancandi/WinGet-Releases/blob/main/Screenshots/BandwidthCalculator/Screenshots.md)
 \
-![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/BandwidthCalculatorInstaller.msi?color=blue)
+![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/BandwidthCalculatorInstaller.msi?flat&label=Latest%20Release%20Downloads&color=blue)
 
-![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/BandwidthCalculatorInstaller.msi?color=blue)
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/BandwidthCalculatorInstaller.msi?style=flat&label=All%20Release%20Downloads&color=blue)
 
 ##
 \
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/latest/total?color=orange)
-
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total?color=orange)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total?style=flat&label=Total%20Downloads&color=orange)
