@@ -19,4 +19,6 @@ Releases on GitHub:\
 
 ##
 \
+![GitHub Tag](https://img.shields.io/github/v/tag/bryancandi/WinGet-Releases?filter=BandwidthCalculator*)
+
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bryancandi/WinGet-Releases/total?style=flat&label=Total%20Downloads&color=orange)
