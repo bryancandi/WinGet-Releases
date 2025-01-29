@@ -8,7 +8,7 @@ A Windows GUI application that can determine the time required to download a fil
 \
 `winget install BryanCandi.BandwidthCalculator`
 
-Changes and Releases on GitHub:\
+Releases and Release Notes:\
 [Bandwidth Calculator](https://github.com/bryancandi/WinGet-Releases/releases)
 
 ### 📷 [Screenshots](https://github.com/bryancandi/WinGet-Releases/blob/main/Screenshots/BandwidthCalculator/Screenshots.md)
