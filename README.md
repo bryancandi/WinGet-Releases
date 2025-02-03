@@ -1,7 +1,7 @@
 # WinGet-Releases
 
 ### Bandwidth Calculator
-A Windows GUI application that can determine the time required to download a file at a given internet bandwidth. It can also determine the bandwidth required to download a file at a given file size and time.
+A Windows Forms .NET application written in C# to determine the time required to download a file at a given internet bandwidth. It can also determine the bandwidth required to download a file at a given file size and time.
 
 ### Install with WinGet:
 ![WinGet Package Version](https://img.shields.io/winget/v/BryanCandi.BandwidthCalculator?label=WinGet&color=darkgreen)
