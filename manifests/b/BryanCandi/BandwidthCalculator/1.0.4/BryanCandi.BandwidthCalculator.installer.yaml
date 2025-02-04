@@ -13,7 +13,6 @@ ProductCode: '{EFDC8E14-71B5-409D-8C29-3D7039FF52AD}'
 AppsAndFeaturesEntries:
 - DisplayName: Bandwidth Calculator
   Publisher: BryanCandi
-  DisplayVersion: 1.0.4
   ProductCode: '{EFDC8E14-71B5-409D-8C29-3D7039FF52AD}'
   UpgradeCode: '{1ABD1CC7-8220-4209-A4D4-52DBF89E91CF}'
 Installers:
