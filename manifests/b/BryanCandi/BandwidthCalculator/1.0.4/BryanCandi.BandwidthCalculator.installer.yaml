@@ -1,0 +1,25 @@
+# Created using wingetcreate 1.9.4.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
+
+PackageIdentifier: BryanCandi.BandwidthCalculator
+PackageVersion: 1.0.4
+InstallerLocale: en-US
+InstallerType: msi
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.9
+    MinimumVersion: 9.0.1
+ProductCode: '{EFDC8E14-71B5-409D-8C29-3D7039FF52AD}'
+AppsAndFeaturesEntries:
+- DisplayName: Bandwidth Calculator
+  Publisher: BryanCandi
+  DisplayVersion: 1.0.4
+  ProductCode: '{EFDC8E14-71B5-409D-8C29-3D7039FF52AD}'
+  UpgradeCode: '{1ABD1CC7-8220-4209-A4D4-52DBF89E91CF}'
+Installers:
+- Architecture: x86
+  InstallerUrl: https://github.com/bryancandi/WinGet-Releases/releases/download/BandwidthCalculator-1.0.4/BandwidthCalculatorInstaller.msi
+  InstallerSha256: 93B1406A76D58E128C6A73C3F3D2A1E307C4A4773466C7DF8CF12B99CAD714ED
+ManifestType: installer
+ManifestVersion: 1.9.0
+ReleaseDate: 2025-02-04
