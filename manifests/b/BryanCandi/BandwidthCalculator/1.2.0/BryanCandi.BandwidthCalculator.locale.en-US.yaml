@@ -11,11 +11,12 @@ PackageName: Bandwidth Calculator
 PackageUrl: https://github.com/bryancandi/WinGet-Releases
 License: MIT
 LicenseUrl: https://github.com/bryancandi/WinGet-Releases/blob/main/LICENSE
-ShortDescription: Calculate download/upload time or speed.
+ShortDescription: A Windows calculator for determining download times and bandwidth requirements, quickly and accurately.
 Tags:
 - bandwidth
 - calculator
 - utility
+- tool
 ReleaseNotesUrl: https://github.com/bryancandi/WinGet-Releases/releases/tag/BandwidthCalculator-1.2.0
 Documentations:
 - DocumentLabel: Wiki
