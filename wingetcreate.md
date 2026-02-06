@@ -1,5 +1,7 @@
 ## WinGet manifest creation and validation
 
+[Windows Package Manager Manifest Creator](https://github.com/microsoft/winget-create)
+
 ### Update existing package
 ```powershell
 # PackageId such as BryanCandi.BandwidthCalculator
